@@ -8,9 +8,9 @@ Hey there! This Jupyter notebook dives into reproducing the "grokking" phenomeno
 - Code to generate a modular addition dataset (mod 97, 50/50 train/test split).
 - A simple MLP model trained with AdamW optimizer.
 - An experiment showing grokking with weight decay (the magic ingredient).
-- A modified run without weight decay to see what happens (spoiler: no grokking).
+- A modified run without weight decay to see what happens.
 - Plots of accuracy and loss curves for both runs.
-- Some thoughts on why it works (or doesn't) and how it matches the paper.
+- Some thoughts on why it works and how it matches the paper.
 
 
 
